@@ -23,7 +23,7 @@ Can a student borrow a book on a certain day for a number of days?
     #See how long they borrowed a book for and how many days until returned
 #Check if they have fines
 """
-"""
+
 file = open("librarylog.txt","r")
 file2 = open("library2","w")
 lst1 = []
@@ -46,7 +46,7 @@ file2.close()
 print(lst1)
 print(lst2)
 print(lst3)
-"""
+
 
 file = open("librarylog.txt","r")
 file2 = open("library2","w")
